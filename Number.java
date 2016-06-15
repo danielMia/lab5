@@ -1,8 +1,11 @@
 
-public class Number {
+public abstract class  Number{
 
-	public Number() {
-		// TODO Auto-generated constructor stub
+	public double magnitude(){
+		return 0.0;
+	}
+	public String toString(){
+		return "";
 	}
 
 }

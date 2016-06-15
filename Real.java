@@ -1,5 +1,5 @@
 
-public class Real {
+public class Real extends Number {
 	private double real;
 	public Real(double real){
 		this.real = real;
